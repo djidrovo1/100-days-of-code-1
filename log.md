@@ -11,11 +11,11 @@
 
 ### Day 1: August 1st, 2016
 
-**Today's Progress**:
+**Today's Progress**: I am still learning JavaScript, I find JS very cool and while I love FCC I have also branched out to other coding schools such as code school, code academy, edunix and some other on that I can't remember. I am a visual learner so I learn quicker by doing it and watching somebody do it (videos). Today I decided to put aside my JS lessons for the rest of the day and start a new project. I have seen some people make knowledge rulers and put them on their portfolio website I want to create one for myself. I honestly do not know where to start but I will post about my progress as I move along. 
 
-**Thoughts:** 
+**Thoughts:** I love coding and can't wait for this challenge and all the stress I am about to endure. 
 
-**Link to work:**
+**Link to work:**Nothing yet! Well, I guess here is the link to the pen where I will create this project. <a href="http://codepen.io/dario-idrovo/full/xOaOjr/">Click Here!!</a>
 
 
 ### Day 2: August 2nd, 2016
