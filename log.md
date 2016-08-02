@@ -15,7 +15,7 @@
 
 **Thoughts:** I love coding and can't wait for this challenge and all the stress I am about to endure. 
 
-**Link to work:**Nothing yet! Well, I guess here is the link to the pen where I will create this project. <a href="http://codepen.io/dario-idrovo/full/xOaOjr/">Click Here!!</a>
+**Link to work:** Nothing yet! Well, I guess here is the link to the pen where I will create this project. <a href="http://codepen.io/dario-idrovo/full/xOaOjr/">Click Here!!</a>
 
 
 ### Day 2: August 2nd, 2016
